@@ -1,2 +1,2 @@
 # HumanMovementClassification
- Project to classify human movement from videos.
+Classifcation of human movement from videos.
